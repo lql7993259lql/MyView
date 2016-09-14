@@ -1,0 +1,60 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+ <com.sun.shine.myrotation.view.MicView
+            android:id="@+id/top"
+            android:layout_width="120dp"
+            android:layout_height="220dp" />
+   <!--  <AbsoluteLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         >
+
+        <ImageView
+            android:id="@+id/top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="26dp"
+            android:layout_y="2dp"
+            android:background="@drawable/ic_top" />
+
+        <ImageView
+            android:id="@+id/left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="3dp"
+            android:layout_y="27dp"
+            android:background="@drawable/ic_left" />
+
+        <ImageView
+            android:id="@+id/right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="104dp"
+            android:layout_y="25dp"
+            android:background="@drawable/ic_right" />
+
+        <ImageView
+            android:id="@+id/bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="27dp"
+            android:layout_y="106dp"
+            android:background="@drawable/ic_bottom" />
+
+        <ImageView
+            android:id="@+id/center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="52dp"
+            android:layout_y="50dp"
+            android:background="@drawable/ic_center" />
+
+    </AbsoluteLayout> -->
+
+</LinearLayout>
